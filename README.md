@@ -28,6 +28,3 @@ for _, id in ipairs(PET_IDS_TO_SPAWN) do
     spawnPet(id, AMOUNT_PER_PET)
     wait(DELAY_BETWEEN)
 end
-
-print("TradingTicketSpawner finished.")# Noxyox
-Spawner pet 
